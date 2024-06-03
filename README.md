@@ -1,4 +1,4 @@
-### hi there, i'm matt. but also use the online handle akuso.
+### hi there, i'm matt
 
 i finished my comp sci degree in 2016 but lost interest in programming and have just got back into it recently with a renewed enthusiasm
 
