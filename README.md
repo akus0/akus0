@@ -1,10 +1,10 @@
 ### hi there, i'm matt. but also use the online handle akuso.
 
-i finished my comp sci degree in 2016 but lost interest in programming and have just got back into it recently with a renewed enthusiasm.  
+i finished my comp sci degree in 2016 but lost interest in programming and have just got back into it recently with a renewed enthusiasm
 
-my last few years at work ive been working with ms sql server systems and have gotten pretty familiar with that. but since getting back into real programming in my free time I have been enjoying some lower level c coding but am looking to apply the skills i have refreshed to web development.
+my last few years at work ive been working with ms sql server systems and have gotten pretty familiar with that. since getting back into some real programming again in my free time, i have been enjoying doing some lower level c coding, but also looking forward to working on some full stack web dev projects
 
-i have been using neovim which has made the programming experience a lot more enjoyable and something i look forward. feel free to peek my dotfiles (:
+i have been using neovim which has made the programming experience a lot more enjoyable and something i look forward to. feel free to peek my dotfiles (:
 
 
 <!--
