@@ -1,11 +1,6 @@
 ### hi there, i'm matt
 
-i finished my comp sci degree in 2016 but lost interest in programming and have just got back into it recently with a renewed enthusiasm
-
-my last few years at work ive been working with ms sql server systems and have gotten pretty familiar with that. since getting back into some real programming again in my free time, i have been enjoying doing some lower level c coding, but also looking forward to working on some full stack web dev projects
-
-i have been using neovim which has made the programming experience a lot more enjoyable and something i look forward to (:
-
+only got back into coding recently, just playing around with whatever i find inetresting. 
 
 <!--
 **akus0/akus0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
