@@ -1,6 +1,6 @@
 ### hi there, i'm matt
 
-only got back into coding recently, just playing around with whatever i find inetresting. 
+only got back into coding recently, just playing around with whatever i find interesting. 
 
 <!--
 **akus0/akus0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
